@@ -9,3 +9,5 @@ height = altura -- width = largura
 envelopar = ctrl + shift + p, envolver com abreviação, tag desejada, enter.
 
 responsividade de imagem = tag picture - source:media
+
+ancoragem imagem de fundo - background-position: coluna linha;
