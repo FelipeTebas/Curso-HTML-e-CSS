@@ -1,0 +1,11 @@
+converter para número - Number(n)
+converter para número específico real ou inteiro - Number.parseInt(n) ou parseFloat
+converter para String - String(n) ou n.ToString()
+`Estou aprendendo ${n}` - template String ou print formatado
+colocar casas decimais - n.toFixed(quant de casas)
+converter em moeda - n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+height = altura -- width = largura
+
+envelopar = ctrl + shift + p, envolver com abreviação, tag desejada, enter.
+
+responsividade de imagem = tag picture - source:media
