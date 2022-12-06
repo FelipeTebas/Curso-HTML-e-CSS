@@ -11,3 +11,9 @@ envelopar = ctrl + shift + p, envolver com abreviação, tag desejada, enter.
 responsividade de imagem = tag picture - source:media
 
 ancoragem imagem de fundo - background-position: coluna linha;
+
+shorthand(abreviação) - background {
+    color > image > position > repeat > size(ainda não funciona) > attachment
+}
+
+background: cover; (cobre a tela inteira com a imagem de fundo)
