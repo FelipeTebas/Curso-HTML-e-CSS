@@ -16,4 +16,4 @@ shorthand(abreviação) - background {
     color > image > position > repeat > size(ainda não funciona) > attachment
 }
 
-background: cover; (cobre a tela inteira com a imagem de fundo )
+background: cover; (cobre a tela inteira com a imagem de fundo)
