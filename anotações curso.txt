@@ -17,3 +17,5 @@ shorthand(abreviação) - background {
 }
 
 background: cover; (cobre a tela inteira com a imagem de fundo)
+
+tabela responsiva - colocar ela dentro de uma div e usar o style = overflow: auto;
